@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hua910.github.io/al-folio/sitemap.xml
