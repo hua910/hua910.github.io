@@ -41,6 +41,7 @@ Places in Vietnam Mila recommend to you:
   * Ninh Thuan
   * Binh Thuan
   * Da Lat
+
 Ask Mila any questions:
   * Nanjing University, 163 Qixia
   * Email: hua@gmail.com
