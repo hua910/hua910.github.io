@@ -18,9 +18,30 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Quynh Hoa (Mila) – a Vietnamese woman living in Nanjing, China
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Although graduating from an economics university, Mila’s love for Vietnam’s pristine and breathtaking landscapes has brought her to spend more than 8 years in the tourism sector, connecting friends from all over the world to come to her beloved country. 
+Mila now has moved to Nanjing to study Master in Communication at Nanjing University in the hope of getting more complete and updated academic knowledge of communications in the global context and applying it to the real situations of Vietnam tourism. 
+You can also have a look at Mila’s working experience and others related via Mila’s CV
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Mila’s achievements:
+  * 2021: Scholarship for one-year Chinese language course at Nanjing University
+  * 2022: Outstanding and most investable team for Tsinghua Summer Global School SDG* 2022
+  * 2022: Certificate of "Chinese + Tourism" top talents upskilling online training program for ASEAN countries - Dongbei University of Finance and Economics
+  * 2021, 2022: Certificate for voluntary service in Sea Turtle Conservation Program in Nui Chua National Park
+  * Foreign languages: Chinese HSK 6: 254/300
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Places in Vietnam Mila recommend to you:
+  * Hanoi
+  * Ninh Binh
+  * Ha Long Bay
+  * Ho Chi Minh City (Sai Gon)
+  * Da Nang
+  * Hoi An
+  * Ninh Thuan
+  * Binh Thuan
+  * Da Lat
+Ask Mila any questions:
+  * Nanjing University, 163 Qixia
+  * Email: hua@gmail.com
+  * Weixin: 9876543210
