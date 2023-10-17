@@ -1,17 +1,17 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Weixin: 9876543210</p>
+    <p>Email: hua@gmail.com</p>
+    <p>Nanjing University, 163 Qixia</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -22,7 +22,7 @@ Quynh Hoa (Mila) – a Vietnamese woman living in Nanjing, China
 
 Although graduating from an economics university, Mila’s love for Vietnam’s pristine and breathtaking landscapes has brought her to spend more than 8 years in the tourism sector, connecting friends from all over the world to come to her beloved country. 
 Mila now has moved to Nanjing to study Master in Communication at Nanjing University in the hope of getting more complete and updated academic knowledge of communications in the global context and applying it to the real situations of Vietnam tourism. 
-You can also have a look at Mila’s working experience and others related via Mila’s CV
+You can also have a look at Mila’s working experience and others related via <a href='/cv/'>Mila’s CV</a>
 
 Mila’s achievements:
   * 2021: Scholarship for one-year Chinese language course at Nanjing University
