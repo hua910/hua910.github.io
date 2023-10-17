@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Certificate of Outstanding and most investable team for Tsinghua Summer Global School SDG 2022
+Certificate of Outstanding and most investable team for Tsinghua Summer Global School SDG 2022 - Communicating for Health and Sustainable Development
