@@ -21,7 +21,9 @@ social: true  # includes social icons at the bottom of the page
 Quynh Hoa (Mila) – a Vietnamese woman living in Nanjing, China
 
 Although graduating from an economics university, Mila’s love for Vietnam’s pristine and breathtaking landscapes has brought her to spend more than 8 years in the tourism sector, connecting friends from all over the world to come to her beloved country. 
+
 Mila now has moved to Nanjing to study Master in Communication at Nanjing University in the hope of getting more complete and updated academic knowledge of communications in the global context and applying it to the real situations of Vietnam tourism. 
+
 You can also have a look at Mila’s working experience and others related via <a href='/cv/'>Mila’s CV</a>
 
 <!-- Mila’s achievements:
