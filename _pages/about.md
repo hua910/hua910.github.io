@@ -24,12 +24,12 @@ Although graduating from an economics university, Mila’s love for Vietnam’s 
 Mila now has moved to Nanjing to study Master in Communication at Nanjing University in the hope of getting more complete and updated academic knowledge of communications in the global context and applying it to the real situations of Vietnam tourism. 
 You can also have a look at Mila’s working experience and others related via <a href='/cv/'>Mila’s CV</a>
 
-Mila’s achievements:
+<!-- Mila’s achievements:
   * 2021: Scholarship for one-year Chinese language course at Nanjing University
   * 2022: Outstanding and most investable team for Tsinghua Summer Global School SDG* 2022
   * 2022: Certificate of "Chinese + Tourism" top talents upskilling online training program for ASEAN countries - Dongbei University of Finance and Economics
   * 2021, 2022: Certificate for voluntary service in Sea Turtle Conservation Program in Nui Chua National Park
-  * Foreign languages: Chinese HSK 6: 254/300
+  * Foreign languages: Chinese HSK 6: 254/300 -->
 
 Places in Vietnam Mila recommend to you:
   * Hanoi
