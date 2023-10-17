@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-11-07 16:11:00-0400
+date: 2022-07-10 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-Outstanding and most investable team for Tsinghua Summer Global School SDG* 2022
+Certificate of Outstanding and most investable team for Tsinghua Summer Global School SDG 2022
