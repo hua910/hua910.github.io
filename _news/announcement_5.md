@@ -6,3 +6,4 @@ related_posts: false
 ---
 
 Foreign languages: Chinese HSK 6: 254/300
+IELTS: 6.5
