@@ -13,8 +13,5 @@ profiles:
     image: prof_pic.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Weixin: 9876543210</p>
-      <p>Email: hua@gmail.com</p>
-      <p>Nanjing University, 163 Qixia</p>
+   
 ---
