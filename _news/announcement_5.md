@@ -5,6 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Foreign languages: Chinese HSK 6: 254/300
-IELTS: 6.5
-TOEIC: 840
+Foreign languages: Chinese HSK 6: 254/300 - IELTS: 6.5 - TOEIC: 840
