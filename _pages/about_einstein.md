@@ -1,4 +1,4 @@
 Ask Mila any questions:
-  * Nanjing University, 163 Qixia
+  * Nanjing University, No. 163 Xianlin Ave., Qixia, Nanjing 
   * Email: hua@gmail.com
   * Weixin: 9876543210
