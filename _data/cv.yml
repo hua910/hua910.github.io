@@ -18,10 +18,10 @@
         - English
         - Business administration
     - title: Master
-      institution: School of Journalism & Communication
+      institution: School of Journalism & Communications
       year: 2023
       description:
-        - Commnucation
+        - Communications
 - title: Experience
   type: time_table
   contents:
@@ -31,14 +31,18 @@
       description:
         - Content marketing
         - Social channel PIC
+        - B2B, B2C
     - title: Visa consultant
       institution: X visa application center
       year: 1933
       description:
-        - Team leader
+        - Visa processing team leader
     - title: Outsourcing
       institution: Freelance.
       year: 2015 - 2023
+      description:
+        - Vietnam - English tranlastion
+        - English copywriter 
 
 - title: Volunteer activities
   type: time_table
