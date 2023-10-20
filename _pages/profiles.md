@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /contact/
 title: Contact
-description: members of the lab or group
+description: Where you can find ways reaching out to Mila
 nav: true
 nav_order: 6
 
