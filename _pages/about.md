@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Weixin: 9876543210</p>
     <p>Email: hua@gmail.com</p>
-    <p>Nanjing University, 163 Xianlin Ave., Qixia, Nanjing</p>
+    <p>Nanjing University, No. 163 Xianlin Ave., Qixia, Nanjing</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -26,11 +26,12 @@ Mila now has moved to Nanjing to study Master in Communication at Nanjing Univer
 
 You can also have a look at Mila’s working experience and others related via <a href='/cv/'>Mila’s CV</a>
 
-<!-- Mila’s achievements:
+<!-- Mila’s highlights:
   * 2021: Scholarship for one-year Chinese language course at Nanjing University
+  * 2021: Certificate of Sustainable Tourism – promoting environmental public health at University of Copenhagen
   * 2022: Outstanding and most investable team for Tsinghua Summer Global School SDG* 2022
   * 2022: Certificate of "Chinese + Tourism" top talents upskilling online training program for ASEAN countries - Dongbei University of Finance and Economics
-  * 2021, 2022: Certificate for voluntary service in Sea Turtle Conservation Program in Nui Chua National Park
+  * 2021, 2022: Certificate of voluntary service in Sea Turtle Conservation Program in Nui Chua National Park, Ninh Thuan, Vietnam
   * Foreign languages: Chinese HSK 6: 254/300 -->
 
 If you want to travel to Vietnam, here are the places that Mila recommend to you:
