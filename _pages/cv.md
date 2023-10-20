@@ -5,6 +5,6 @@ title: Mila's CV
 nav: true
 nav_order: 4
 cv_pdf: MilaCV.pdf
-description: This is a Mila's CV
+description: Please click on the PDF icon to view Mila's CV
 toc:
 ---
