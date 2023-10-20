@@ -18,7 +18,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Quynh Hoa (Mila) – a Vietnamese woman living in Nanjing, China
+Quynh Hoa (Mila) – a Vietnamese girl living in Nanjing, China
 
 Although graduating from an economics university, Mila’s love for Vietnam’s pristine and breathtaking landscapes has brought her to spend more than 8 years in the tourism sector, connecting friends from all over the world to come to her beloved country. 
 
@@ -33,7 +33,7 @@ You can also have a look at Mila’s working experience and others related via <
   * 2021, 2022: Certificate for voluntary service in Sea Turtle Conservation Program in Nui Chua National Park
   * Foreign languages: Chinese HSK 6: 254/300 -->
 
-Places in Vietnam Mila recommend to you:
+If you want to travel to Vietnam, here are the places that Mila recommend to you:
   * Hanoi
   * Ninh Binh
   * Ha Long Bay
@@ -43,8 +43,3 @@ Places in Vietnam Mila recommend to you:
   * Ninh Thuan
   * Binh Thuan
   * Da Lat
-
-Ask Mila any questions:
-  * Nanjing University, 163 Qixia
-  * Email: hua@gmail.com
-  * Weixin: 9876543210
