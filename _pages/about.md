@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Weixin: 9876543210</p>
     <p>Email: hua@gmail.com</p>
-    <p>Nanjing University, 163 Qixia</p>
+    <p>Nanjing University, 163 Xianlin Ave., Qixia, Nanjing</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
